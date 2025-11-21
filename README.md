@@ -10,6 +10,14 @@ The primary goals are:
 
 ---
 
+
+## 0. Team Members
+
+- **Nishant Kadam (10022263865)**
+- **Akshat Parikh (1002202253)**
+- **Soham Jagrit (1002233627)**
+- **Nayan Bhandari (1002215730)**
+
 ## 1. Project Overview
 
 Acute Lymphoblastic Leukemia (ALL) and Acute Myeloid Leukemia (AML) have distinct molecular profiles and clinical outcomes.  
