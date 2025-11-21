@@ -13,7 +13,7 @@ The primary goals are:
 
 ## 0. Team Members
 
-- **Nishant Kadam (10022263865)**
+- **Nishant Kadam (1002263865)**
 - **Akshat Parikh (1002202253)**
 - **Soham Jagrit (1002233627)**
 - **Nayan Bhandari (1002215730)**
